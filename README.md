@@ -10,3 +10,6 @@ Please feel free to add resources for machine learning system design that you've
 
 ### LinkedIn
 [Rapid experimentation through standardization: Typed AI features for LinkedIn’s feed](https://engineering.linkedin.com/blog/2020/feed-typed-ai-features)
+
+### Instagram
+[Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
