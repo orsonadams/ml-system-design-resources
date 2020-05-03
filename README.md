@@ -7,3 +7,6 @@ Please feel free to add resources for machine learning system design that you've
 
 ### Dropbox
 [Architecture of Nautilus, the new Dropbox search engine](https://dropbox.tech/machine-learning/architecture-of-nautilus-the-new-dropbox-search-engine)
+
+### LinkedIn
+[Rapid experimentation through standardization: Typed AI features for LinkedIn’s feed](https://engineering.linkedin.com/blog/2020/feed-typed-ai-features)
