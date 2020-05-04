@@ -14,3 +14,6 @@ Please feel free to add resources for machine learning system design that you've
 
 ### Instagram
 - [Powered by AI: Instagram’s Explore recommender system](https://instagram-engineering.com/powered-by-ai-instagrams-explore-recommender-system-7ca901d2a882)
+
+### Netflix
+- [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9?source=collection_home---4------6-----------------------)
