@@ -17,3 +17,4 @@ Please feel free to add resources for machine learning system design that you've
 
 ### Netflix
 - [Open-Sourcing Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9?source=collection_home---4------6-----------------------)
+- [[VIDEO] Internals of Metaflow](https://www.youtube.com/watch?v=8jTo3bVni3E&list=PLGEBSHR02XbhC-5Eqy7ERHxpuwiJHes4j)
