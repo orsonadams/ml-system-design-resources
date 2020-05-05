@@ -21,5 +21,8 @@ Please feel free to add resources for machine learning system design that you've
 - [[VIDEO] Internals of Metaflow](https://www.youtube.com/watch?v=8jTo3bVni3E&list=PLGEBSHR02XbhC-5Eqy7ERHxpuwiJHes4j)
 - [Metaflow Technical Overview](https://docs.metaflow.org/internals-of-metaflow/technical-overview)
 
+### Spotify
+- [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
+
 ### Twitter
 - [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
