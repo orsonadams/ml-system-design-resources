@@ -25,7 +25,7 @@ Please feel free to add resources for machine learning system design that you've
 - [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow/)
 
 ### Google
-[[KDD '17 Paper] A TensorFlow-Based Production-Scale Machine Learning Platform](https://research.google/pubs/pub43146/)
+- [[KDD '17 Paper] A TensorFlow-Based Production-Scale Machine Learning Platform](https://research.google/pubs/pub43146/)
 
 ### Twitter
 - [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
