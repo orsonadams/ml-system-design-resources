@@ -1,8 +1,8 @@
 # Designing Machine Learning Systems at Scale
 
-A hopefully really long list of resources in the form of blog posts, podcasts, youtube videos etc where engineers talk and write about the machine learning systems they've built and scaled. It would be great to focus on thse systems _architecture_.
+A hopefully really long list of resources in the form of blog posts, podcasts, youtube videos etc where engineers talk and write about the machine learning systems they've built and scaled. It would be great to focus on thse system's _architecture_. 
 
-Please feel free to add resources for machine learning system design that you've been using to this list! Thanks!
+A lot of this knowlegde exists in on the web via a mix of media types but I've found it chanllenging to fina a place where its collected and sharable. This certainly is useful for me, I hope its useful for others! Please feel free to add resources for machine learning system design that you've been using to this list.
 
 
 ### Dropbox
