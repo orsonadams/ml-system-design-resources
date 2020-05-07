@@ -29,3 +29,7 @@ A lot of this knowlegde exists in on the web via a mix of media types but I've f
 
 ### Twitter
 - [Productionizing ML with workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
+
+### Amazon
+
+- [[Paper] Automating Large-Scale Data Quality Verification](http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf)
