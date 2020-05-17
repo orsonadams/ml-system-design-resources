@@ -33,3 +33,6 @@ A lot of this knowlegde exists in on the web via a mix of media types but I've f
 ### Amazon
 
 - [[Paper] Automating Large-Scale Data Quality Verification](http://www.vldb.org/pvldb/vol11/p1781-schelter.pdf)
+
+### Pinterest 
+- [How ads indexing works at Pinterest](https://medium.com/pinterest-engineering/how-ads-indexing-works-at-pinterest-99b4796f289f)
