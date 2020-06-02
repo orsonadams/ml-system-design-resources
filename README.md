@@ -36,3 +36,4 @@ A lot of this knowlegde exists in on the web via a mix of media types but I've f
 
 ### Pinterest 
 - [How ads indexing works at Pinterest](https://medium.com/pinterest-engineering/how-ads-indexing-works-at-pinterest-99b4796f289f)
+- [Building a dynamic and responsive Pinterest](https://medium.com/pinterest-engineering/building-a-dynamic-and-responsive-pinterest-7d410e99f0a9)
